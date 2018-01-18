@@ -19,8 +19,5 @@ the backend and [twilio](https://www.twilio.com/) to send sms.
 - The getWhatsappMsg.user.js extension will listen for incoming messages and send it to the node server
 - The node server will send the messages to your chellphone number
 
-## Buggy
-This project is still in its early stages so it is still really buggy, so this is not the final product. I will try my best to fix the bugs and to add more features. 
 
-## Credits
-This project was made possible by the "Code For Africa" whatsapp group. 
+
