@@ -1,4 +1,4 @@
-# Wharica (beta)
+# Wharica
 An application that detects watsapp messeges posted in whatsapp web then sends it to a specified number/s via sms.
 
 ## Dependencies
